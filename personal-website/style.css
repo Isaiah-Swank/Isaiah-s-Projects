@@ -1,0 +1,126 @@
+/* CSS Style File for personal website */
+
+body{
+    /* Background Image */
+    background-image: url("/images/Palisade.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+h1{
+     /* Font attributes*/
+    font-family: "Honk";
+    font-size: 100px;
+    color: white;
+    text-align: center;
+    
+}
+h2{
+    font-family: "Black Ops One";
+    font-size: 33px;
+    text-align: center;
+    color: rgb(87, 7, 87);
+}
+p{
+    /* Font attributes*/
+    font-family:"PT Sans Narrow", Times, serif;
+    color: black;
+    font-size: large;
+    font-weight: bold;
+
+     /* Font Borders*/
+     border-style: outset;
+     border-width: 5px;
+     border-color: purple;
+     border-radius: 10px;
+     padding: 5px;
+}
+
+img{
+    /* Centering images */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+/* Navigation Bar List */
+.navbar ul{
+    list-style-type: none;
+    background-color: rgb(39, 39, 39);
+    padding: 0px;
+    margin: 0px;
+}
+
+/* Navigation Bar Links */
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+
+/* Hover change color  */
+.navbar a:hover{
+    background-color: rgb(70, 69, 69);
+}
+
+/* Work Life Styling */
+.front-intro{
+    margin: 20px;    
+}
+.front-intro p{
+    background-color: rgb(255, 206, 91);   
+}
+
+
+
+/* Interests Page Styling */
+
+/* Coding */
+.Interests .Coding{
+    margin: 20px;
+}
+.Interests .Coding p{
+    background-color: rgb(237, 237, 130);
+}
+
+/* Sports */
+.Interests .Sports{
+    margin: 20px;
+}
+.Interests .Sports p{
+    background-color: rgb(255, 206, 91);
+}
+
+/* Family */
+.Interests .Family{
+    margin: 20px;
+}
+.Interests .Family p{
+    background-color: rgb(237, 130, 217);
+}
+
+/* Work Life Styling */
+.Work .work-intro{
+    margin: 20px;
+}
+.Work .work-intro p{
+    background-color: rgb(255, 206, 91);
+}
+
+.Work .work-middle{
+    margin: 20px;
+}
+.Work .work-middle p{
+    background-color: rgb(237, 237, 130);
+}
+
+.Work .work-end p{
+    background-color: rgb(237, 130, 217);
+}
+.Work .work-end{
+    margin: 20px;
+}
