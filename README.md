@@ -8,6 +8,7 @@ While I am no expert by any means, I am proud of the work I have done so far bec
 1. ### Personal Website
    * This is the first project I created
    * Personal website covering my interests and what working with me is like
+   * Vist my [Personal Website]([https://github.com/caiton1/CS386-Meal-Creation-App-WIP-/blob/main/CONTRIBUTING.md](https://github.com/Isaiah-Swank/Isaiah-s-Projects/blob/main/personal-website/index.html))
 2. ### Calculator
    * 4 Function Calculator
    * Uses CSS properties to format the calculator to look like a standard 4 function calculator
