@@ -12,7 +12,9 @@ While I am no expert by any means, I am proud of the work I have done so far bec
 2. ### Calculator
    * 4 Function Calculator
    * Uses CSS properties to format the calculator to look like a standard 4 function calculator
+   * Try the [Calculator](https://github.com/Isaiah-Swank/Isaiah-s-Projects/blob/main/calculator/index.html)
 3. ### Fighting Game
    * First attempt at using HTML, Javascript, and CSS to create a game
    * Personally made all the images and sprites to practice character design and animation techniques
    * Modeled the game after my younger siblings (ages 8 and younger) requests and input for games they would like to play
+   * Play [Karate Time](https://github.com/Isaiah-Swank/Isaiah-s-Projects/blob/main/fighting-game/index.html)
