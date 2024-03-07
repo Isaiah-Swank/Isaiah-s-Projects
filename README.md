@@ -8,13 +8,13 @@ While I am no expert by any means, I am proud of the work I have done so far bec
 1. ### Personal Website
    * This is the first project I created
    * Personal website covering my interests and what working with me is like
-   * Vist my [Personal Website](http://127.0.0.1:5500/index.html)
+   * Vist my [Personal Website](https://github.com/Isaiah-Swank/Isaiah-s-Projects/tree/main/personal-website)
 2. ### Calculator
    * 4 Function Calculator
    * Uses CSS properties to format the calculator to look like a standard 4 function calculator
-   * Try the [Calculator](http://127.0.0.1:5500/index.html)
+   * Try the [Calculator](https://github.com/Isaiah-Swank/Isaiah-s-Projects/tree/main/calculator)
 3. ### Fighting Game
    * First attempt at using HTML, Javascript, and CSS to create a game
    * Personally made all the images and sprites to practice character design and animation techniques
    * Modeled the game after my younger siblings (ages 8 and younger) requests and input for games they would like to play
-   * Play [Karate Time](http://127.0.0.1:5500/fight-index.html)
+   * Play [Karate Time](https://github.com/Isaiah-Swank/Isaiah-s-Projects/tree/main/fighting-game)
